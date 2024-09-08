@@ -1,6 +1,7 @@
 //
 // Created by kani3camp on 2024-09-08.
 //
+#include <iomanip>
 #include <iostream>
 #include <set>
 using namespace std;
@@ -10,15 +11,25 @@ int main() {
     string S;
     cin >> N >> S;
 
-    set<string> candidates;
-    for (int i = 0; i < S.length() - 2; i++) {
-        for (int j = i + 1; j < S.length() - 1; j++) {
-            for (int k = j + 1; k < S.length(); k++) {
-                string s = string(1, S[i] )+ S[j] + S[k];
-                candidates.insert(s);
+    int count = 0;
+
+    for (int a = 0; a <= 999; a++) {
+        ostringstream oss;
+        oss << setw(3) << setfill('0') << a;
+        string s = oss.str();
+
+        int position = 0;
+        for (int i = 0; i < S.length(); i++) {
+            if (position > 2) break;
+            if (s[position] == S[i]) {
+                position++;
             }
         }
+        if (position > 2) {
+            count++;
+        }
     }
-    cout << candidates.size() << endl;
+
+    cout << count << endl;
     return 0;
 }
