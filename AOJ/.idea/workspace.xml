@@ -15,6 +15,7 @@
   <component name="CMakeRunConfigurationManager">
     <generated>
       <config projectName="aoj" targetName="ITP1_7_B" />
+      <config projectName="aoj" targetName="ALDS1_5_A" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -23,7 +24,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e28dccc9-94fe-4788-bbc2-3e3713d9a57f" name="Changes" comment="aoj" />
+    <list default="true" id="e28dccc9-94fe-4788-bbc2-3e3713d9a57f" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/ALDS1_5_A.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +58,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "CMake Application.ALDS1_5_A.executor": "Run",
     "CMake Application.ITP1_7_B.executor": "Run",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -67,17 +73,33 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "fileTemplates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="CMake Application.ALDS1_5_A">
+    <configuration name="ALDS1_5_A" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aoj" TARGET_NAME="ALDS1_5_A" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aoj" RUN_TARGET_NAME="ALDS1_5_A">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ITP1_7_B" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aoj" TARGET_NAME="ITP1_7_B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aoj" RUN_TARGET_NAME="ITP1_7_B">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.ALDS1_5_A" />
+      <item itemvalue="CMake Application.ITP1_7_B" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="CMake Application.ALDS1_5_A" />
         <item itemvalue="CMake Application.ITP1_7_B" />
       </list>
     </recent_temporary>
@@ -91,6 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725805455144</updated>
       <workItem from="1725805456168" duration="809000" />
+      <workItem from="1725893104030" duration="2315000" />
     </task>
     <task id="LOCAL-00001" summary="aoj">
       <option name="closed" value="true" />
@@ -100,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725806243058</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1725893306702</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725893306702</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +144,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aoj" />
-    <option name="LAST_COMMIT_MESSAGE" value="aoj" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
