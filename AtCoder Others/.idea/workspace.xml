@@ -3,9 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
   </component>
@@ -23,7 +23,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a2cf875-728f-4590-b4c0-b5864b904d52" name="Changes" comment="全探索" />
+    <list default="true" id="7a2cf875-728f-4590-b4c0-b5864b904d52" name="Changes" comment="全探索">
+      <change beforePath="$PROJECT_DIR$/../AOJ/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AOJ/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOJ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AOJ/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,9 +54,9 @@
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2lmkcjP5y5646pYtvPSSwRfR8Bf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -69,7 +72,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/momom/GitHub/atcoder/AtCoder Others/CMakeLists.txt",
+    "last_opened_file_path": "C:/Users/momom/GitHub/atcoder/AtCoder Others",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,11 +83,6 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="pakencamp-2019-day3_C" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="others" TARGET_NAME="pakencamp-2019-day3_C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="others" RUN_TARGET_NAME="pakencamp-2019-day3_C">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />

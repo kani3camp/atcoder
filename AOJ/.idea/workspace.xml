@@ -24,11 +24,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e28dccc9-94fe-4788-bbc2-3e3713d9a57f" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/ALDS1_5_A.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-    </list>
+    <list default="true" id="e28dccc9-94fe-4788-bbc2-3e3713d9a57f" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +63,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/momom/GitHub/atcoder/AOJ",
+    "last_opened_file_path": "C:/Users/momom/GitHub/atcoder/AtCoder Others",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -84,11 +80,6 @@
       </method>
     </configuration>
     <configuration name="ITP1_7_B" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aoj" TARGET_NAME="ITP1_7_B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aoj" RUN_TARGET_NAME="ITP1_7_B">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -114,6 +105,7 @@
       <updated>1725805455144</updated>
       <workItem from="1725805456168" duration="809000" />
       <workItem from="1725893104030" duration="2315000" />
+      <workItem from="1725977639727" duration="55000" />
     </task>
     <task id="LOCAL-00001" summary="aoj">
       <option name="closed" value="true" />
