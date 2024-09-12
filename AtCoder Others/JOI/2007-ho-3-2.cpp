@@ -49,6 +49,16 @@ int main() {
                 long dist_ik = dist(x[i], y[i], x[k], y[k]);
                 auto it2 = square_sizes.lower_bound(dist_ik);
                 if (it2 != square_sizes.end()) continue;
+                // 直角二等辺三角形になっているか
+                if (dist_ij == dist_ik) {
+                    long dist_jk = dist(x[j], y[j], x[k], y[k]);
+                    if (dist_jk != dist_ij + dist_ik) continue;
+                } else if (dist_ij > dist_ik) {
+                    if (dist_ij != 2 * dist_ik) continue;
+                } else if (dist_ik > dist_ij) {
+                    if (dist_ik == 2 * dist_ij) continue;
+                } else { continue; }
+
                 for (int l = k + 1; l < n; l++) {
                     long dist_il = dist(x[i], y[i], x[l], y[l]);
                     auto it3 = square_sizes.lower_bound(dist_il);
