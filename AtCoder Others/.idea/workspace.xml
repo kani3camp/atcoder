@@ -15,6 +15,7 @@
   <component name="CMakeRunConfigurationManager">
     <generated>
       <config projectName="others" targetName="2007-ho-3-2" />
+      <config projectName="others" targetName="joi2008yo_d" />
       <config projectName="others" targetName="sumitrust2019_D" />
       <config projectName="others" targetName="2007-ho-3" />
       <config projectName="others" targetName="pakencamp-2019-day3_C" />
@@ -28,7 +29,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a2cf875-728f-4590-b4c0-b5864b904d52" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/s8pc-6/s8pc_6_b.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JOI/joi2008yo/joi2008yo_d.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
@@ -86,6 +87,26 @@
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -99,6 +120,7 @@
   "keyToString": {
     "CMake Application.2007-ho-3-2.executor": "Run",
     "CMake Application.2007-ho-3.executor": "Debug",
+    "CMake Application.joi2008yo_d.executor": "Run",
     "CMake Application.pakencamp-2019-day3_C.executor": "Run",
     "CMake Application.s8pc_6_b.executor": "Debug",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
@@ -123,7 +145,7 @@
       <recent name="C:\Users\momom\GitHub\atcoder\AtCoder Others\JOI" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.s8pc_6_b">
+  <component name="RunManager" selected="CMake Application.joi2008yo_d">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -135,6 +157,11 @@
       </method>
     </configuration>
     <configuration name="2007-ho-3" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="others" TARGET_NAME="2007-ho-3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="others" RUN_TARGET_NAME="2007-ho-3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="joi2008yo_d" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="others" TARGET_NAME="joi2008yo_d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="others" RUN_TARGET_NAME="joi2008yo_d">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -156,6 +183,7 @@
     </configuration>
     <list>
       <item itemvalue="CMake Application.sumitrust2019_D" />
+      <item itemvalue="CMake Application.joi2008yo_d" />
       <item itemvalue="CMake Application.s8pc_6_b" />
       <item itemvalue="CMake Application.2007-ho-3-2" />
       <item itemvalue="CMake Application.2007-ho-3" />
@@ -163,6 +191,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="CMake Application.joi2008yo_d" />
         <item itemvalue="CMake Application.s8pc_6_b" />
         <item itemvalue="CMake Application.2007-ho-3-2" />
         <item itemvalue="CMake Application.2007-ho-3" />
@@ -180,7 +209,7 @@
       <updated>1725792720209</updated>
       <workItem from="1725792721218" duration="1032000" />
       <workItem from="1725977696405" duration="20707000" />
-      <workItem from="1726148214037" duration="14161000" />
+      <workItem from="1726148214037" duration="15710000" />
     </task>
     <task id="LOCAL-00001" summary="全探索">
       <option name="closed" value="true" />
@@ -214,7 +243,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726155281131</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <option name="closed" value="true" />
+      <created>1726226515399</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726226515399</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <option name="closed" value="true" />
+      <created>1726226631626</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726226631626</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,6 +293,7 @@
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
         <watch expression="arr" />
+        <watch expression="y" />
       </configuration>
     </watches-manager>
   </component>
