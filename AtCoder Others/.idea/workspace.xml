@@ -20,6 +20,7 @@
       <config projectName="others" targetName="joi2008yo_e" />
       <config projectName="others" targetName="2007-ho-3" />
       <config projectName="others" targetName="pakencamp-2019-day3_C" />
+      <config projectName="others" targetName="s8pc_4_b" />
       <config projectName="others" targetName="s8pc_6_b" />
     </generated>
   </component>
@@ -30,8 +31,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a2cf875-728f-4590-b4c0-b5864b904d52" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/s8pc-4/s8pc_4_b.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOI/joi2008yo/joi2008yo_e.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/JOI/joi2008yo/joi2008yo_e.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +55,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Users/shirasakajun/Documents/GitHub/atcoder/AtCoder Others/JOI/joi2008yo/joi2008yo_e.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/shirasakajun/Documents/GitHub/atcoder/AtCoder Others/JOI/joi2008yo/joi2008yo_e.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -152,6 +153,7 @@
     "CMake Application.joi2008yo_d.executor": "Run",
     "CMake Application.joi2008yo_e.executor": "Run",
     "CMake Application.pakencamp-2019-day3_C.executor": "Run",
+    "CMake Application.s8pc_4_b.executor": "Debug",
     "CMake Application.s8pc_6_b.executor": "Debug",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -167,7 +169,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "fileTemplates",
+    "settings.editor.selected.configurable": "CMakeSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -176,18 +178,18 @@
       <recent name="C:\Users\momom\GitHub\atcoder\AtCoder Others\JOI" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.joi2008yo_e">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="CMake Application.s8pc_4_b">
     <configuration name="2007-ho-3-2" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="others" TARGET_NAME="2007-ho-3-2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="others" RUN_TARGET_NAME="2007-ho-3-2">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="2007-ho-3" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="others" TARGET_NAME="2007-ho-3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="others" RUN_TARGET_NAME="2007-ho-3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -207,6 +209,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="s8pc_4_b" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="others" TARGET_NAME="s8pc_4_b" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="others" RUN_TARGET_NAME="s8pc_4_b">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="s8pc_6_b" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="others" TARGET_NAME="s8pc_6_b" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="others" RUN_TARGET_NAME="s8pc_6_b">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -219,6 +226,7 @@
     </configuration>
     <list>
       <item itemvalue="CMake Application.sumitrust2019_D" />
+      <item itemvalue="CMake Application.s8pc_4_b" />
       <item itemvalue="CMake Application.joi2008yo_e" />
       <item itemvalue="CMake Application.joi2008yo_d" />
       <item itemvalue="CMake Application.s8pc_6_b" />
@@ -228,11 +236,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="CMake Application.s8pc_4_b" />
         <item itemvalue="CMake Application.joi2008yo_e" />
         <item itemvalue="CMake Application.joi2008yo_d" />
         <item itemvalue="CMake Application.s8pc_6_b" />
         <item itemvalue="CMake Application.2007-ho-3-2" />
-        <item itemvalue="CMake Application.2007-ho-3" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +256,8 @@
       <workItem from="1725977696405" duration="20707000" />
       <workItem from="1726148214037" duration="15780000" />
       <workItem from="1726231393700" duration="7279000" />
-      <workItem from="1726287705326" duration="8084000" />
+      <workItem from="1726287705326" duration="12985000" />
+      <workItem from="1726303545780" duration="2947000" />
     </task>
     <task id="LOCAL-00001" summary="全探索">
       <option name="closed" value="true" />
@@ -338,7 +347,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726290947400</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update">
+      <option name="closed" value="true" />
+      <created>1726296676447</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726296676447</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,6 +383,11 @@
           <url>file://$PROJECT_DIR$/pakencamp-2019-day3/C.cpp</url>
           <line>23</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/s8pc-4/s8pc_4_b.cpp</url>
+          <line>54</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
