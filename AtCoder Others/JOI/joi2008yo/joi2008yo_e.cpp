@@ -28,15 +28,21 @@ int main() {
     }
 
     long max_ok = 0;
-    const long p = pow(2, R+C);
-    for (int bit = 0; bit < p; bit++) {   // ビット全探索
+    const int R_threshold = R / 2;
+    const long p = pow(2, R);
+    for (int bit = 0; bit < p; bit++) {   // Rについてビット全探索
         long ok = 0;    // 出荷可能な数
-        for (int i =0; i < R; i++) {
-            auto row = (1 << i & bit) > 0;
-            for (int j = 0; j < C; j++) {
-                auto col = (1 << j + R & bit) > 0;
-                ok += !(a[i][j] ^ row ^ col);
+        for (int j = 0; j < C; j++)
+        {
+            int col_sum = 0;
+            for (int i =0; i < R; i++) {
+                auto row_hit = (1 << i & bit) > 0;
+                bool that = a[i][j];
+                if (row_hit) that = !that;
+                col_sum += that;
             }
+            if (col_sum > R_threshold) ok += col_sum;
+            else ok += (R - col_sum);
         }
         if (ok > max_ok) {
             max_ok = ok;
