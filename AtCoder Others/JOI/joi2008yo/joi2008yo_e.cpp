@@ -5,6 +5,7 @@
 
 #include <iostream>
 #include <cassert>
+#include <algorithm>
 using namespace std;
 
 long pow(int base , int exp) {
@@ -31,16 +32,10 @@ int main() {
     for (int bit = 0; bit < p; bit++) {   // ビット全探索
         long ok = 0;    // 出荷可能な数
         for (int i =0; i < R; i++) {
-            auto row = (1 << i) & bit;
+            auto row = (1 << i & bit) > 0;
             for (int j = 0; j < C; j++) {
-                auto col = 1 << (j + R) & bit;
-                if (row > 0 && col > 0) {
-                    if (a[i][j] == 0) ok++;
-                } else if (row > 0 || col > 0) {
-                    if (a[i][j] == 1) ok++;
-                } else {    // row = 0 && col = 0
-                    if (a[i][j] == 0) ok++;
-                }
+                auto col = (1 << j + R & bit) > 0;
+                ok += (a[i][j] + row + col) % 2 == 0;
             }
         }
         if (ok > max_ok) {
