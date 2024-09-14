@@ -35,7 +35,7 @@ int main() {
             auto row = (1 << i & bit) > 0;
             for (int j = 0; j < C; j++) {
                 auto col = (1 << j + R & bit) > 0;
-                ok += (a[i][j] + row + col) % 2 == 0;
+                ok += !(a[i][j] ^ row ^ col);
             }
         }
         if (ok > max_ok) {
