@@ -17,6 +17,7 @@
       <config projectName="aoj" targetName="ALDS1_13_A" />
       <config projectName="aoj" targetName="ITP1_7_B" />
       <config projectName="aoj" targetName="ALDS1_5_A" />
+      <config projectName="aoj" targetName="ALDS1_4_B" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -26,7 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e28dccc9-94fe-4788-bbc2-3e3713d9a57f" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +171,7 @@
       <workItem from="1726228137467" duration="29000" />
       <workItem from="1726314117743" duration="666000" />
       <workItem from="1726453535422" duration="2505000" />
-      <workItem from="1726653869501" duration="3831000" />
+      <workItem from="1726653869501" duration="4457000" />
     </task>
     <task id="LOCAL-00001" summary="aoj">
       <option name="closed" value="true" />
@@ -204,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726657652063</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <option name="closed" value="true" />
+      <created>1726710139337</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726710139337</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
