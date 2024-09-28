@@ -34,10 +34,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a2cf875-728f-4590-b4c0-b5864b904d52" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/JOI/joi2008ho/joi2008ho_c.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JOI/joi2008ho/joi2008ho_c_giveup.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +202,7 @@
       <workItem from="1726287705326" duration="12985000" />
       <workItem from="1726303545780" duration="3316000" />
       <workItem from="1727060911143" duration="1603000" />
-      <workItem from="1727515735630" duration="2634000" />
+      <workItem from="1727515735630" duration="3217000" />
     </task>
     <task id="LOCAL-00001" summary="全探索">
       <option name="closed" value="true" />
@@ -319,7 +316,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727062021392</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="update">
+      <option name="closed" value="true" />
+      <created>1727521562255</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1727521562255</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
