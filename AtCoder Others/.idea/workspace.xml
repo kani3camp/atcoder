@@ -21,8 +21,10 @@
       <config projectName="others" targetName="2007-ho-3" />
       <config projectName="others" targetName="pakencamp-2019-day3_C" />
       <config projectName="others" targetName="s8pc_4_b" />
+      <config projectName="others" targetName="joi2008ho_c" />
       <config projectName="others" targetName="s8pc_6_b" />
       <config projectName="others" targetName="joi2009ho_b" />
+      <config projectName="others" targetName="joi2008ho_c_giveup" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -32,7 +34,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a2cf875-728f-4590-b4c0-b5864b904d52" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/../ABC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ABC/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JOI/joi2008ho/joi2008ho_c.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JOI/joi2008ho/joi2008ho_c_giveup.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,42 +63,6 @@
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -107,6 +76,7 @@
   "keyToString": {
     "CMake Application.2007-ho-3-2.executor": "Run",
     "CMake Application.2007-ho-3.executor": "Debug",
+    "CMake Application.joi2008ho_c_giveup.executor": "Run",
     "CMake Application.joi2008yo_d.executor": "Run",
     "CMake Application.joi2008yo_e.executor": "Run",
     "CMake Application.joi2009ho_b.executor": "Run",
@@ -136,18 +106,28 @@
       <recent name="C:\Users\momom\GitHub\atcoder\AtCoder Others\JOI" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.joi2009ho_b">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="CMake Application.joi2008ho_c_giveup">
     <configuration name="2007-ho-3-2" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="others" TARGET_NAME="2007-ho-3-2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="others" RUN_TARGET_NAME="2007-ho-3-2">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="2007-ho-3" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="others" TARGET_NAME="2007-ho-3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="others" RUN_TARGET_NAME="2007-ho-3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="joi2008ho_c" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="others" TARGET_NAME="joi2008ho_c" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="others" RUN_TARGET_NAME="joi2008ho_c">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="joi2008ho_c_giveup" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="others" TARGET_NAME="joi2008ho_c_giveup" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="others" RUN_TARGET_NAME="joi2008ho_c_giveup">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -189,6 +169,8 @@
     </configuration>
     <list>
       <item itemvalue="CMake Application.sumitrust2019_D" />
+      <item itemvalue="CMake Application.joi2008ho_c" />
+      <item itemvalue="CMake Application.joi2008ho_c_giveup" />
       <item itemvalue="CMake Application.joi2009ho_b" />
       <item itemvalue="CMake Application.s8pc_4_b" />
       <item itemvalue="CMake Application.joi2008yo_e" />
@@ -200,11 +182,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="CMake Application.joi2008ho_c_giveup" />
         <item itemvalue="CMake Application.joi2009ho_b" />
         <item itemvalue="CMake Application.s8pc_4_b" />
         <item itemvalue="CMake Application.joi2008yo_e" />
         <item itemvalue="CMake Application.joi2008yo_d" />
-        <item itemvalue="CMake Application.s8pc_6_b" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +205,7 @@
       <workItem from="1726287705326" duration="12985000" />
       <workItem from="1726303545780" duration="3316000" />
       <workItem from="1727060911143" duration="1603000" />
+      <workItem from="1727515735630" duration="2634000" />
     </task>
     <task id="LOCAL-00001" summary="全探索">
       <option name="closed" value="true" />
@@ -389,6 +372,11 @@
           <url>file://$PROJECT_DIR$/JOI/joi2009ho/joi2009ho_b.cpp</url>
           <line>55</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/JOI/joi2008ho/joi2008ho_c_giveup.cpp</url>
+          <line>38</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
