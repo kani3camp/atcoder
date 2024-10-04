@@ -34,7 +34,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a2cf875-728f-4590-b4c0-b5864b904d52" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/../ARC/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,17 +160,17 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="CMake Application.2007-ho-3-2" />
-      <item itemvalue="CMake Application.2007-ho-3" />
+      <item itemvalue="CMake Application.sumitrust2019_D" />
       <item itemvalue="CMake Application.joi2008ho_c" />
       <item itemvalue="CMake Application.joi2008ho_c_giveup" />
-      <item itemvalue="CMake Application.joi2008yo_d" />
-      <item itemvalue="CMake Application.joi2008yo_e" />
       <item itemvalue="CMake Application.joi2009ho_b" />
-      <item itemvalue="CMake Application.pakencamp-2019-day3_C" />
       <item itemvalue="CMake Application.s8pc_4_b" />
+      <item itemvalue="CMake Application.joi2008yo_e" />
+      <item itemvalue="CMake Application.joi2008yo_d" />
       <item itemvalue="CMake Application.s8pc_6_b" />
-      <item itemvalue="CMake Application.sumitrust2019_D" />
+      <item itemvalue="CMake Application.2007-ho-3-2" />
+      <item itemvalue="CMake Application.2007-ho-3" />
+      <item itemvalue="CMake Application.pakencamp-2019-day3_C" />
     </list>
     <recent_temporary>
       <list>
@@ -200,7 +199,7 @@
       <workItem from="1727060911143" duration="1603000" />
       <workItem from="1727515735630" duration="3217000" />
       <workItem from="1728052505173" duration="2497000" />
-      <workItem from="1728055900778" duration="1000" />
+      <workItem from="1728055900778" duration="840000" />
     </task>
     <task id="LOCAL-00001" summary="全探索">
       <option name="closed" value="true" />
@@ -340,6 +339,17 @@
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
     <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="全探索" />
