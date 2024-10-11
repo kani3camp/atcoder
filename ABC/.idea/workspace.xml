@@ -51,17 +51,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5efbd2e-d4f8-4877-8a75-d22a09be885b" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/374/abc374_a.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/374/abc374_b.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/374/abc374_c.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/374/abc374_d.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOJ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AOJ/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AtCoder Others/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AtCoder Others/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c5efbd2e-d4f8-4877-8a75-d22a09be885b" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -573,7 +563,7 @@
       <workItem from="1726919756176" duration="7626000" />
       <workItem from="1727062515681" duration="9976000" />
       <workItem from="1727524999909" duration="3312000" />
-      <workItem from="1728129361515" duration="8272000" />
+      <workItem from="1728129361515" duration="8391000" />
     </task>
     <task id="LOCAL-00001" summary="C++がわからなくて実力が出せない（PYTHON使え">
       <option name="closed" value="true" />
@@ -639,7 +629,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727071457874</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update">
+      <option name="closed" value="true" />
+      <created>1728138188579</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728138188579</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
