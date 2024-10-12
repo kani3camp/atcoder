@@ -220,6 +220,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ALDS1_10_A" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aoj" TARGET_NAME="ALDS1_10_A" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aoj" RUN_TARGET_NAME="ALDS1_10_A">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ALDS1_11_B" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aoj" TARGET_NAME="ALDS1_11_B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aoj" RUN_TARGET_NAME="ALDS1_11_B">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -257,6 +262,7 @@
     </configuration>
     <list>
       <item itemvalue="CMake Application.ALDS1_4_B" />
+      <item itemvalue="CMake Application.ALDS1_10_A" />
       <item itemvalue="CMake Application.ALDS1_11_C" />
       <item itemvalue="CMake Application.1160" />
       <item itemvalue="CMake Application.ALDS1_11_B" />
