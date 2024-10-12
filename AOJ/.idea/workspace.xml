@@ -16,6 +16,7 @@
     <generated>
       <config projectName="aoj" targetName="ALDS1_11_B" />
       <config projectName="aoj" targetName="ALDS1_13_A" />
+      <config projectName="aoj" targetName="ALDS1_11_C" />
       <config projectName="aoj" targetName="ITP1_7_B" />
       <config projectName="aoj" targetName="1160" />
       <config projectName="aoj" targetName="ALDS1_5_A" />
@@ -29,10 +30,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e28dccc9-94fe-4788-bbc2-3e3713d9a57f" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/../ABC/138/abc138_d.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ALDS1_11_C.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ABC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ABC/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ABC/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ABC/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtCoder Others/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AtCoder Others/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,6 +194,7 @@
   "keyToString": {
     "CMake Application.1160.executor": "Run",
     "CMake Application.ALDS1_11_B.executor": "Run",
+    "CMake Application.ALDS1_11_C.executor": "Run",
     "CMake Application.ALDS1_13_A.executor": "Debug",
     "CMake Application.ALDS1_5_A.executor": "Run",
     "CMake Application.ITP1_7_B.executor": "Run",
@@ -212,13 +216,23 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="CMake Application.1160">
+  <component name="RunManager" selected="CMake Application.ALDS1_11_C">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="1160" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aoj" TARGET_NAME="1160" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aoj" RUN_TARGET_NAME="1160">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="ALDS1_11_B" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aoj" TARGET_NAME="ALDS1_11_B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aoj" RUN_TARGET_NAME="ALDS1_11_B">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ALDS1_11_C" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aoj" TARGET_NAME="ALDS1_11_C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aoj" RUN_TARGET_NAME="ALDS1_11_C">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -243,13 +257,9 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="CMake Application.ALDS1_4_B" />
+      <item itemvalue="CMake Application.ALDS1_11_C" />
       <item itemvalue="CMake Application.1160" />
       <item itemvalue="CMake Application.ALDS1_11_B" />
       <item itemvalue="CMake Application.ALDS1_13_A" />
@@ -258,11 +268,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="CMake Application.ALDS1_11_C" />
         <item itemvalue="CMake Application.1160" />
         <item itemvalue="CMake Application.ALDS1_11_B" />
         <item itemvalue="CMake Application.ALDS1_13_A" />
         <item itemvalue="CMake Application.ALDS1_5_A" />
-        <item itemvalue="CMake Application.ITP1_7_B" />
       </list>
     </recent_temporary>
   </component>
@@ -285,6 +295,7 @@
       <workItem from="1727523531562" duration="340000" />
       <workItem from="1727528771451" duration="1786000" />
       <workItem from="1728571054543" duration="6012000" />
+      <workItem from="1728720607046" duration="1285000" />
     </task>
     <task id="LOCAL-00001" summary="aoj">
       <option name="closed" value="true" />
@@ -355,7 +366,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/ALDS1_11_B.cpp</url>
-          <line>46</line>
+          <line>48</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
@@ -365,27 +376,22 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/ALDS1_11_B.cpp</url>
-          <line>47</line>
+          <line>49</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/ALDS1_11_B.cpp</url>
-          <line>48</line>
+          <line>50</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/ALDS1_11_B.cpp</url>
-          <line>16</line>
+          <line>15</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/ALDS1_11_B.cpp</url>
-          <line>17</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/ALDS1_11_B.cpp</url>
-          <line>49</line>
+          <line>51</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">

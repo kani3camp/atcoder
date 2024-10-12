@@ -54,11 +54,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5efbd2e-d4f8-4877-8a75-d22a09be885b" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/../AtCoder Others/JOI/joi2009yo/joi2009yo_d.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AOJ/ALDS1_11_C.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AtCoder Others/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AtCoder Others/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOJ/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AOJ/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOJ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AOJ/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOJ/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AOJ/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AtCoder Others/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AtCoder Others/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AtCoder Others/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AtCoder Others/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
