@@ -29,14 +29,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e28dccc9-94fe-4788-bbc2-3e3713d9a57f" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/../ABC/375/abc375_a.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ABC/375/abc375_b.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ABC/375/abc375_c.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ABC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ABC/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ABC/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ABC/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e28dccc9-94fe-4788-bbc2-3e3713d9a57f" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
