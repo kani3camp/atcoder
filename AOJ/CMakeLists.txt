@@ -18,3 +18,4 @@ add_executable(1160 1160.cpp
 add_executable(ALDS1_11_C ALDS1_11_C.cpp)
 add_executable(ALDS1_10_A ALDS1_10_A.cpp)
 add_executable(DPL_1_B DPL_1_B.cpp)
+add_executable(DPL_1_C DPL_1_C.cpp)
