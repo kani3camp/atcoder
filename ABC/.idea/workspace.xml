@@ -57,9 +57,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5efbd2e-d4f8-4877-8a75-d22a09be885b" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/../AOJ/DPL_1_B.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOJ/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AOJ/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AOJ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AOJ/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOJ/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AOJ/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
