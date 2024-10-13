@@ -217,6 +217,11 @@
   }
 }</component>
   <component name="RunManager" selected="CMake Application.DPL_1_B">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="1160" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aoj" TARGET_NAME="1160" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aoj" RUN_TARGET_NAME="1160">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -268,9 +273,9 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="CMake Application.ALDS1_4_B" />
       <item itemvalue="CMake Application.ALDS1_10_A" />
       <item itemvalue="CMake Application.DPL_1_C" />
-      <item itemvalue="CMake Application.ALDS1_4_B" />
       <item itemvalue="CMake Application.DPL_1_B" />
       <item itemvalue="CMake Application.ALDS1_11_C" />
       <item itemvalue="CMake Application.1160" />
