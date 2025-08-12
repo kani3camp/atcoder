@@ -1,5 +1,9 @@
 cmake_minimum_required(VERSION 3.26)
+
 project(abc)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 add_executable(A 370/A.cpp)
 add_executable(B 370/B.cpp)
@@ -57,3 +61,6 @@ add_executable(abc381_a 381/abc381_a.cpp)
 add_executable(abc381_b 381/abc381_b.cpp)
 add_executable(abc381_c 381/abc381_c.cpp)
 add_executable(abc381_d 381/abc381_d.cpp)
+add_executable(abc382_a 382/abc382_a.cpp)
+add_executable(abc382_b 382/abc382_b.cpp)
+add_executable(abc382_c 382/abc382_c.cpp)
